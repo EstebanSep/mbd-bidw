@@ -1,5 +1,6 @@
-# IE HST - MBD
-BUSINESS INTELLIGENCE &amp; DATAWAREHOUSING
+# IE HST | MBD
+
+## BUSINESS INTELLIGENCE AND DATAWAREHOUSING
 
 It contains additional information for the course:
 
